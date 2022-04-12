@@ -9,5 +9,10 @@ public class GitTest {
         System.out.println("hello git 3");
 
         System.out.println("hot fix git4");
+
+
+
+
+        System.out.println("冲突 master");
     }
 }
